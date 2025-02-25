@@ -79,11 +79,29 @@ Puedes [acceder al código fuente del proyecto](https://github.com/RafaelBossh16
 
 <br>
 
-## 
+## Instrucciones de uso
+1. Debes clonar este repositorio:
+   ```
+   git clone https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one.git
+   ```
 
+2. Debes abrir el archivo `index.html` en tu navegador web a través de tu IDE.
 
+3. Debes ingresar los nombres correspondientes en el campo de texto y haz clic en "Añadir" para agregarlos a la lista e iniciar con el sorteo.
 
+4. Cuando termines de agregar nombres y se haya validado los posibles errores, debes dar clic en "Sortear amigo" para obtener un resultado aleatorio y así terminaría el funcionamiento de la aplicación.
 
+<br>
+
+## Challenge
+Este proyecto forma parte de la formación **ONE - Oracle Next Education**, un programa educativo enfocado en el desarrollo de habilidades tecnológicas e implementación de soluciones innovadores.
+
+<br>
+
+## Desarrollador/Autor
+| [<img src="https://avatars.githubusercontent.com/u/140756022?v=4" width=115><br><sub>Rafael Huamani Tejeda</sub>](https://github.com/RafaelBossh16) |
+
+| :---: |
 
 
 
