@@ -11,17 +11,17 @@
 
 - [Descripción del proyecto](#descripción-del-proyecto)
 
-- [Funcionalidades y muestras de la Aplicación](#funcionalidades-muestras)
+- [Funcionalidades y muestras de la Aplicación](#funcionalidades-y-muestras-de-la-aplicación)
 
 - [Herramientas utilizadas](#herramientas-utilizadas)
 
 - [Acceso al proyecto](#acceso-al-proyecto)
 
-- [Instrucciones de uso](#instrucciones-uso)
+- [Instrucciones de uso](#instrucciones-de-uso)
 
 - [Challenge](#challenge)
 
-- [Desarrollador/Autor](#dev-autor)
+- [Desarrollador/Autor](#desarrollador-autor)
 
 <br>
 
