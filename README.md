@@ -35,7 +35,7 @@
 
 <br>
 
-## Funcionalidades y muestras de la aplicación
+## Funcionalidades y muestras de la Aplicación
 <div align="justify">
    
 :heavy_check_mark: `Funcionalidad 1:` Agregar nombres de tus amigos, por consiguiente estos se almacenarán en una lista para realizar el respectivo sorteo.
