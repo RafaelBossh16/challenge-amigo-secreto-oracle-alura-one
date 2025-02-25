@@ -39,6 +39,7 @@
 <div align="justify">
    
 :heavy_check_mark: `Funcionalidade 1:` Agregar nombres de tus amigos, por consiguiente estos se almacenarán en una lista para realizar el respectivo sorteo.
+
 ![Imagen de agregar nombres y lista](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/df07333296460801cb30affce5f86598ab54d544/assets/lista-amigos.jpg)
 
 :heavy_check_mark: `Funcionalidade 2:` Armazenar dados do usuário, como glicemia, atividade física, alimentação, medicação, administração de insulina e peso no banco de dados na Cloud Firestore.
