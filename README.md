@@ -70,12 +70,12 @@
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank">
 </a> </p>
 
-<p align="justify">HTML5, CSS3, JavaScript, Git/GitHub (Respectivamente)</p>
+<p align="justify">HTML5, CSS3, JavaScript y Git (Respectivamente).</p>
 
 <br>
 
 ## Acceso al proyecto
-
+Puedes [acceder al código fuente del proyecto](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one.git) o 
 
 
 
