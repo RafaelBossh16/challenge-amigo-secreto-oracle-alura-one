@@ -1,9 +1,10 @@
 <h1 align="center">Challenge Amigo Secreto</h1>
 
-<p align="left">
+<p align="justify">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=%20DONE&color=RED&style=for-the-badge" #vitrinedev/>
    
    ![GitHub](https://img.shields.io/github/stars/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one)
+   
 </p>
    
 ### Tópicos 
@@ -35,5 +36,16 @@
 <br>
 
 ## Funcionalidades y muestras de la aplicación
+<div align="justify">
+   
+:heavy_check_mark: `Funcionalidade 1:` Agregar nombres de tus amigos, por consiguiente estos se almacenarán en una lista para realizar el respectivo sorteo.
+![Imagen de agregar nombres y lista](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/df07333296460801cb30affce5f86598ab54d544/assets/lista-amigos.jpg)
 
+:heavy_check_mark: `Funcionalidade 2:` Armazenar dados do usuário, como glicemia, atividade física, alimentação, medicação, administração de insulina e peso no banco de dados na Cloud Firestore.
+
+:heavy_check_mark: `Funcionalidade 3:` Plotar gráfico com histórico dos níveis glicêmicos do paciente.
+
+:heavy_check_mark: `Funcionalidade 4:` Chat com entre o paciente e profissional da saúde.
+
+</div>
    
