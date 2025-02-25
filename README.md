@@ -21,7 +21,7 @@
 
 - [Challenge](#challenge)
 
-- [Desarrollador/Autor](#desarrollador-autor)
+- [Desarrollador-Autor](#desarrollador-autor)
 
 <br>
 
