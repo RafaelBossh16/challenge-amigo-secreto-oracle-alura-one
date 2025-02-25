@@ -29,6 +29,11 @@
    "Amigo Secreto" es una aplicación web interactiva que permite a los usuarios agregar nombres de amigos de su entorno y almacenarlos en una lista, con el 
    fin de realizar un sorteo aleatorio para determinar el amigo secreto correspondiente.
 
-   ![Imagen descriptiva del proyecto finalizado]()
+   ![Imagen descriptiva del proyecto finalizado](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/38e58cafa3fdf8dca21a50048dcc927ed6195cf7/assets/proyecto-finalizado.jpg)
 </p>
+
+<br>
+
+## Funcionalidades y muestras de la aplicación
+
    
