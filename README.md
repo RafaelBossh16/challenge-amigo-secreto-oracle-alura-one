@@ -2,22 +2,22 @@
 
 <p align="left">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=%20DONE&color=RED&style=for-the-badge" #vitrinedev/>
-
-   ![GitHub Repo stars](https://img.shields.io/github/stars/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one)   
+   
+   ![GitHub](https://img.shields.io/github/stars/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one)
 </p>
-
+   
 ### Tópicos 
 
-- [Descrição do projeto](#descrição-do-projeto)
+- [Descripción del proyecto](#descripción-del-proyecto)
 
-- [Funcionalidades](#funcionalidades)
+- [Funcionalidades y muestras de la Aplicación](#funcionalidades-muestras)
 
-- [Aplicação](#aplicação)
+- [Herramientas utilizadas](#herramientas-utilizadas)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Acceso al proyecto](#acceso-al-proyecto)
 
-- [Acesso ao projeto](#acesso-ao-projeto)
+- [Instrucciones de uso](#instrucciones-uso)
 
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+- [Challenge](#challenge)
 
-- [Desenvolvedores](#desenvolvedores)
+- [Desarrollador/Autor](#dev-autor)
