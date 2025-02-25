@@ -1,6 +1,6 @@
 <h1 align="center">Challenge Amigo Secreto</h1>
 
-<p align="justify">
+<p align="justify"
    <img src="http://img.shields.io/static/v1?label=STATUS&message=%20DONE&color=RED&style=for-the-badge" #vitrinedev/>
    
    ![GitHub](https://img.shields.io/github/stars/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one)
@@ -75,7 +75,7 @@
 <br>
 
 ## Acceso al proyecto
-Puedes [acceder al código fuente del proyecto](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one.git) o [descárgarlo](aaa).
+Puedes [acceder al código fuente del proyecto](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one.git) o [descárgarlo]((https://github.com/user-attachments/files/18955437/challenge-amigo-secreto-oracle-alura-one-main.zip)).
 
 <br>
 
