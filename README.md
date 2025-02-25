@@ -38,25 +38,29 @@
 ## Funcionalidades y muestras de la aplicación
 <div align="justify">
    
-:heavy_check_mark: `Funcionalidade 1:` Agregar nombres de tus amigos, por consiguiente estos se almacenarán en una lista para realizar el respectivo sorteo.
+:heavy_check_mark: `Funcionalidad 1:` Agregar nombres de tus amigos, por consiguiente estos se almacenarán en una lista para realizar el respectivo sorteo.
 
 ![Imagen de agregar nombres y lista](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/df07333296460801cb30affce5f86598ab54d544/assets/lista-amigos.jpg)
 
-:heavy_check_mark: `Funcionalidade 2:` Validar parámetro de entrada. En caso de que el usuario le da clic al botón "Añadir" y esté vacío, se mostrará una alerta solicitando que ingrese un nombre correspondiente.
+:heavy_check_mark: `Funcionalidad 2:` Validar parámetro de entrada. En caso de que el usuario le da clic al botón "Añadir" y esté vacío, se mostrará una alerta solicitando que ingrese un nombre correspondiente.
 
 ![Validación-1](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/38cd4ec203468513997a62dea139a1197a9f02a5/assets/validacion-1.jpg)
 
-:heavy_check_mark: `Funcionalidade 3:` Validar resultado fallido. En caso de que el usuario le da clic al botón "Sortear amigos" y la lista esté vacía, se mostrará una alerta solicitando que ingrese los nombres para realizar el sorteo.
+:heavy_check_mark: `Funcionalidad 3:` Validar resultado fallido. En caso de que el usuario le da clic al botón "Sortear amigos" y la lista esté vacía, se mostrará una alerta solicitando que ingrese los nombres para realizar el sorteo.
 
 ![Validación-2](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/d736350e06c30b5913d03d3f5b8b323956283a74/assets/validacion-2.jpg)
 
-:heavy_check_mark: `Funcionalidade 4:` Validar nombres duplicados. En caso de que el usuario ingrese nombres duplicados, se mostrará una alerta que no puede ingresar dicho nombre porque ya está en la lista y no se aceptan duplicados.
+:heavy_check_mark: `Funcionalidad 4:` Validar nombres duplicados. En caso de que el usuario ingrese nombres duplicados, se mostrará una alerta que no puede ingresar dicho nombre porque ya está en la lista y no se aceptan duplicados.
 
 ![Validación-3](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/d736350e06c30b5913d03d3f5b8b323956283a74/assets/validacion-3.jpg)
 
-:heavy_check_mark: `Funcionalidade 5:` Validar nombres duplicados. En caso de que el usuario ingrese nombres duplicados, se mostrará una alerta que no puede ingresar dicho nombre porque ya está en la lista y no se aceptan duplicados.
+:heavy_check_mark: `Funcionalidad 5:` Mostrar al amigo sorteo. En caso de que el usuario haya llenado todos los nombres y le da clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en pantalla como resultado final.
 
-![Validación-3](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/d736350e06c30b5913d03d3f5b8b323956283a74/assets/validacion-3.jpg)
+![Resultado final](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/1ab0328a801f3229b606c7572c700d3ccc9edefa/assets/sorteo-final.jpg)
 
 </div>
+
+## Herramientas utilizadas
+
+
    
