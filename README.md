@@ -42,7 +42,9 @@
 
 ![Imagen de agregar nombres y lista](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/df07333296460801cb30affce5f86598ab54d544/assets/lista-amigos.jpg)
 
-:heavy_check_mark: `Funcionalidade 2:` Armazenar dados do usuário, como glicemia, atividade física, alimentação, medicação, administração de insulina e peso no banco de dados na Cloud Firestore.
+:heavy_check_mark: `Funcionalidade 2:` Validar parámetro de entrada. En caso de que el usuario le da clic al botón "Añadir" y esté vacío, se mostrará una alerta solicitando que ingrese un nombre correspondiente.
+
+![Validación-1](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/38cd4ec203468513997a62dea139a1197a9f02a5/assets/validacion-1.jpg)
 
 :heavy_check_mark: `Funcionalidade 3:` Plotar gráfico com histórico dos níveis glicêmicos do paciente.
 
