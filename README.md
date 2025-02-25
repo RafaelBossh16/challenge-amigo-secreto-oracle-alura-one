@@ -1,7 +1,9 @@
-<h1>Challenge Amigo Secreto</h1>
+<h1 align="center">Challenge Amigo Secreto</h1>
 
-<p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+<p align="left">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DONE&color=RED&style=for-the-badge" #vitrinedev/>
+
+   
 </p>
 
 ### Tópicos 
