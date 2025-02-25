@@ -21,3 +21,14 @@
 - [Challenge](#challenge)
 
 - [Desarrollador/Autor](#dev-autor)
+
+<br>
+
+## Descripción del proyecto
+<p align="justify">
+   "Amigo Secreto" es una aplicación web interactiva que permite a los usuarios agregar nombres de amigos de su entorno y almacenarlos en una lista, con el 
+   fin de realizar un sorteo aleatorio para determinar el amigo secreto correspondiente.
+
+   ![Imagen descriptiva del proyecto finalizado]()
+</p>
+   
