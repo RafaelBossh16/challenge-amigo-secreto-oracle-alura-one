@@ -46,7 +46,7 @@
 
 ![Validación-1](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/38cd4ec203468513997a62dea139a1197a9f02a5/assets/validacion-1.jpg)
 
-:heavy_check_mark: `Funcionalidad 3:` Validar resultado fallido. En caso de que el usuario le da clic al botón "Sortear amigos" y la lista esté vacía, se mostrará una alerta solicitando que ingrese los nombres para realizar el sorteo.
+:heavy_check_mark: `Funcionalidad 3:` Validar resultado fallido. En caso de que el usuario le da clic al botón "Sortear amigo" y la lista esté vacía, se mostrará una alerta solicitando que ingrese los nombres para realizar el sorteo.
 
 ![Validación-2](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/d736350e06c30b5913d03d3f5b8b323956283a74/assets/validacion-2.jpg)
 
@@ -54,13 +54,15 @@
 
 ![Validación-3](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/d736350e06c30b5913d03d3f5b8b323956283a74/assets/validacion-3.jpg)
 
-:heavy_check_mark: `Funcionalidad 5:` Mostrar al amigo sorteo. En caso de que el usuario haya llenado todos los nombres y le da clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en pantalla como resultado final.
+:heavy_check_mark: `Funcionalidad 5:` Mostrar al amigo sorteo. En caso de que el usuario haya llenado todos los nombres y le da clic en el botón "Sortear amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en pantalla como resultado final.
 
 ![Resultado final](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/1ab0328a801f3229b606c7572c700d3ccc9edefa/assets/sorteo-final.jpg)
 
 </div>
 
 ## Herramientas utilizadas
+
+
 
 
    
