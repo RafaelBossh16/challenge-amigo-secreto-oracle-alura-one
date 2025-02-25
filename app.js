@@ -14,11 +14,19 @@ function agregarAmigo() {
     return;
   }
 
+  // Validar que no haya duplicados
+  if (amigos.includes(textoIngresado)) {
+    alert("Este amigo ya está en la lista y no se aceptan duplicados.");
+    return;
+  }
+
   // Actualizar el array de amigos
   amigos.push(textoIngresado);
 
   // Limpiar el campo de entrada
   document.getElementById('amigo').value = '';
+
+  // Llamar a la función para actualizar la lista
   actualizarLista();
 }
 
@@ -29,12 +37,15 @@ function actualizarLista() {
   
   // Limpiar la lista existente
   lista.innerHTML = '';
+
+  // Validar que no haya duplicados en la lista
+  let amigosDuplicados = [...new Set(amigos)];
   
-  // Iterar sobre el arreglo
-  for (let i = 0; i < amigos.length; i++) {
+  // Iterar sobre el arreglo para evitar duplicados
+  for (let i = 0; i < amigosDuplicados.length; i++) {
     
     // Agregar elementos a la lista
-    lista.innerHTML += `${i + 1}. ${amigos[i]}<br>`;
+    lista.innerHTML += `${i + 1}. ${amigosDuplicados[i]}<br>`;
   }
 }
 
