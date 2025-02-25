@@ -46,9 +46,17 @@
 
 ![Validación-1](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/38cd4ec203468513997a62dea139a1197a9f02a5/assets/validacion-1.jpg)
 
-:heavy_check_mark: `Funcionalidade 3:` Plotar gráfico com histórico dos níveis glicêmicos do paciente.
+:heavy_check_mark: `Funcionalidade 3:` Validar resultado fallido. En caso de que el usuario le da clic al botón "Sortear amigos" y la lista esté vacía, se mostrará una alerta solicitando que ingrese los nombres para realizar el sorteo.
 
-:heavy_check_mark: `Funcionalidade 4:` Chat com entre o paciente e profissional da saúde.
+![Validación-2](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/d736350e06c30b5913d03d3f5b8b323956283a74/assets/validacion-2.jpg)
+
+:heavy_check_mark: `Funcionalidade 4:` Validar nombres duplicados. En caso de que el usuario ingrese nombres duplicados, se mostrará una alerta que no puede ingresar dicho nombre porque ya está en la lista y no se aceptan duplicados.
+
+![Validación-3](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/d736350e06c30b5913d03d3f5b8b323956283a74/assets/validacion-3.jpg)
+
+:heavy_check_mark: `Funcionalidade 5:` Validar nombres duplicados. En caso de que el usuario ingrese nombres duplicados, se mostrará una alerta que no puede ingresar dicho nombre porque ya está en la lista y no se aceptan duplicados.
+
+![Validación-3](https://github.com/RafaelBossh16/challenge-amigo-secreto-oracle-alura-one/blob/d736350e06c30b5913d03d3f5b8b323956283a74/assets/validacion-3.jpg)
 
 </div>
    
