@@ -99,9 +99,10 @@ Este proyecto forma parte de la formación **ONE - Oracle Next Education**, un p
 <br>
 
 ## Desarrollador/Autor
-| [<img src="https://avatars.githubusercontent.com/u/140756022?v=4" width=115><br><sub>Rafael Huamani Tejeda</sub>](https://github.com/RafaelBossh16) |
 
-| :---: |
+| [<img src="https://avatars.githubusercontent.com/u/140756022?v=4" width=115><br><sub>Rafael Huamani Tejeda</sub>](https://github.com/RafaelBossh16)
+| :---: 
+
 
 
 
